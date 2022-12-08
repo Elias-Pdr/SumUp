@@ -1,0 +1,628 @@
+
+#sumup-card {
+    min-height: 200px;
+}
+iframe {
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+#sumup-card [data-sumup-id=widget__container] {
+    padding-top: 0;
+}
+.sumup-payment-7brioh {
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    border-radius: 16px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(15, 19, 26);
+    max-width: 700px;
+    padding: 16px 24px;
+    margin: auto;
+}
+.sumup-payment-7brioh * {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.sumup-payment-7brioh.sumup-payment-7brioh h4, .sumup-payment-7brioh h3 {
+    margin: 10px 0px;
+    line-height: 20px;
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.sumup-payment-r44k6v {
+    margin: 0px;
+}
+.sumup-payment-k3b8wi {
+    background-size: 100% 60%;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    border-radius: 5px;
+    padding: 0px;
+    box-sizing: border-box;
+    min-width: 200px;
+    max-height: 44px;
+    background-color: black;
+    width: 100%;
+    color: white;
+    margin: 0px 0px 20px;
+    display: none;
+    height: 0px;
+    opacity: 0;
+}
+.sumup-payment-195pv25 {
+    display: none;
+    color: rgb(210, 63, 71);
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+.sumup-payment-195pv25 span {
+    height: 30px;
+    vertical-align: middle;
+}
+.sumup-payment-7brioh * {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.sumup-payment-haw22i {
+    margin-bottom: 16px;
+}
+.sumup-payment-7brioh.sumup-payment-7brioh input {
+    padding: calc(9px) 12px;
+}
+.sumup-payment-1y297pu {
+    visibility: hidden;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+}
+.sumup-payment-27xqb3 {
+    color: rgb(26, 26, 26);
+    padding-left: 44px;
+    padding-right: 16px;
+    position: relative;
+    height: 55px;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    -webkit-box-align: center;
+    align-items: center;
+    border: 1px solid rgb(216, 221, 225);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 2px;
+}
+.sumup-payment-27xqb3::before {
+    box-sizing: border-box;
+    height: 18px;
+    width: 18px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(153, 153, 153);
+    border-radius: 100%;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 27px;
+    left: 16px;
+    transform: translateY(-50%);
+    transition: border 120ms ease-in-out 0s;
+}
+.sumup-payment-1skmlm3 {
+    width: 100%;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    font-weight: 700;
+}
+#sumup-card [data-testid=payment-logo-card] {
+    min-width: 80px;
+    max-width: 110px;
+}
+#sumup-card [data-testid=payment-logo-card]>img {
+    max-width: 100%;
+}
+.sumup-payment-7brioh.sumup-payment-7brioh img {
+    display: inline-block;
+}
+.sumup-payment-15hop4z {
+    height: 32px;
+    padding: 5px 0px 5px 5px;
+    max-width: 110px;
+    vertical-align: top;
+}
+.sumup-payment-27xqb3::after {
+    box-sizing: border-box;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(48, 99, 233);
+    border-radius: 100%;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 27px;
+    left: 20px;
+    transform: translateY(-50%) scale(0, 0);
+    opacity: 0;
+    transition: transform 120ms ease-in-out 0s, opacity 120ms ease-in-out 0s;
+}
+.sumup-payment-1e9t98p {
+    height: 0px;
+    overflow-x: hidden;
+}
+.sumup-payment-27xqb3:hover {
+    background-color: rgb(245, 245, 245);
+    margin-bottom: 2px;
+    box-sizing: border-box;
+    border: 1px solid rgb(204, 204, 204);
+}
+.sumup-payment-eblivg::before {
+    box-sizing: border-box;
+    height: 18px;
+    width: 18px;
+    background-color: #ffeb3b;
+    border: 1px solid rgb(153, 153, 153);
+    border-radius: 100%;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 27px;
+    left: 16px;
+    transform: translateY(-50%);
+    transition: border 120ms ease-in-out 0s;
+}
+.sumup-payment-eblivg:hover {
+    background-color: rgb(237, 244, 252);
+    margin-bottom: 2px;
+    box-sizing: border-box;
+    border: 2px solid rgb(48, 99, 233);
+}
+.sumup-payment-eblivg {
+    color: rgb(26, 26, 26);
+    padding-left: 44px;
+    padding-right: 16px;
+    position: relative;
+    height: 55px;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    -webkit-box-align: center;
+    align-items: center;
+    border: 2px solid rgb(48, 99, 233);
+    background-color: rgb(237, 244, 252);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 2px;
+}
+.sumup-payment-1y297pu:checked + label::after {
+    transform: translateY(-50%) scale(1, 1);
+    opacity: 1;
+}
+
+.sumup-payment-eblivg::after {
+    box-sizing: border-box;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(48, 99, 233);
+    border-radius: 100%;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 27px;
+    left: 20px;
+    transform: translateY(-50%) scale(0, 0);
+    opacity: 0;
+    transition: transform 120ms ease-in-out 0s, opacity 120ms ease-in-out 0s;
+}
+.sumup-payment-27xqb3::before {
+    box-sizing: border-box;
+    height: 18px;
+    width: 18px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(153, 153, 153);
+    border-radius: 100%;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 27px;
+    left: 16px;
+    transform: translateY(-50%);
+    transition: border 120ms ease-in-out 0s;
+}
+
+.sumup-payment-27xqb3::after {
+    box-sizing: border-box;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(48, 99, 233);
+    border-radius: 100%;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 27px;
+    left: 20px;
+    transform: translateY(-50%) scale(0, 0);
+    opacity: 0;
+    transition: transform 120ms ease-in-out 0s, opacity 120ms ease-in-out 0s;
+}
+.sumup-payment-eblivg::before {
+    box-sizing: border-box;
+    height: 18px;
+    width: 18px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(153, 153, 153);
+    border-radius: 100%;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 27px;
+    left: 16px;
+    transform: translateY(-50%);
+    transition: border 120ms ease-in-out 0s;
+}
+.sumup-payment-1y297pu:checked + label::after {
+    transform: translateY(-50%) scale(1, 1);
+    opacity: 1;
+}
+.sumup-payment-eblivg::after {
+    box-sizing: border-box;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(48, 99, 233);
+    border-radius: 100%;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 27px;
+    left: 20px;
+    transform: translateY(-50%) scale(0, 0);
+    opacity: 0;
+    transition: transform 120ms ease-in-out 0s, opacity 120ms ease-in-out 0s;
+}
+.sumup-payment-1xuidlv {
+    background: rgb(250, 251, 252);
+    height: auto;
+    padding: 10px 20px 20px;
+}
+.sumup-payment-1lkincd {
+    font-size: 13px;
+    line-height: 20px;
+    display: inline-block;
+    margin-bottom: 4px;
+    color: rgb(15, 19, 26);
+    width: 100%;
+}
+.sumup-payment-1mo2ana {
+    min-height: 98px;
+}
+.sumup-payment-1lkincd {
+    font-size: 13px;
+    line-height: 20px;
+    display: inline-block;
+    margin-bottom: 4px;
+    color: rgb(15, 19, 26);
+    width: 100%;
+}
+.sumup-payment-7brioh.sumup-payment-7brioh input {
+    padding: calc(9px) 12px;
+}
+.sumup-payment-1kw82dr.sumup-payment-1kw82dr {
+    appearance: none;
+    outline: 0px;
+    border-radius: 8px;
+    padding: calc(9px) 12px;
+    transition: box-shadow 120ms ease-in-out 0s, padding 120ms ease-in-out 0s;
+    width: 100%;
+    margin: 0px;
+    height: 45px;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid transparent;
+    box-shadow: rgb(153 153 153) 0px 0px 0px 1px;
+}
+.sumup-payment-1pv6w02 {
+    display: none;
+    height: auto;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgb(210, 63, 71);
+    padding: 4px;
+}
+.sumup-payment-1pv6w02 svg {
+    display: inline-block;
+    min-width: 18px;
+    margin-right: 4px;
+}
+.sumup-payment-1lkincd {
+    font-size: 13px;
+    line-height: 20px;
+    display: inline-block;
+    margin-bottom: 4px;
+    color: rgb(15, 19, 26);
+    width: 100%;
+}
+.sumup-payment-cssveg {
+    position: relative;
+}
+.sumup-payment-1lkincd {
+    font-size: 13px;
+    line-height: 20px;
+    display: inline-block;
+    margin-bottom: 4px;
+    color: rgb(15, 19, 26);
+    width: 100%;
+}
+@media (min-width: 391px){
+    .sumup-payment-de2kua.sumup-payment-de2kua {
+        display: flex;
+        flex-direction: row;
+        margin: 0px;
+        padding: 0px;
+    }
+}
+.sumup-payment-de2kua.sumup-payment-de2kua {
+    border: 0px;
+}
+@media (min-width: 391px){
+    .sumup-payment-de2kua.sumup-payment-de2kua > div:first-child {
+        margin-right: 5px;
+    }
+    .sumup-payment-de2kua.sumup-payment-de2kua div {
+        flex: 1 1 0%;
+        align-self: baseline;
+    }
+}
+.sumup-payment-1lkincd {
+    font-size: 13px;
+    line-height: 20px;
+    display: inline-block;
+    margin-bottom: 4px;
+    color: rgb(15, 19, 26);
+    width: 100%;
+}
+.sumup-payment-1261kvk::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.sumup-payment-7brioh.sumup-payment-7brioh input {
+    padding: calc(9px) 12px;
+}
+.sumup-payment-13geu2x.sumup-payment-13geu2x {
+    appearance: none;
+    outline: 0px;
+    border-radius: 8px;
+    padding: calc(9px) 12px;
+    transition: box-shadow 120ms ease-in-out 0s, padding 120ms ease-in-out 0s;
+    width: 100%;
+    margin: 0px;
+    height: 45px;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid rgb(210, 63, 71);
+}
+.aviso,
+#containerFormCard{
+    display: none;
+}
+
+.sumup-payment-1wavyhs span {
+    display: inline-block;
+    vertical-align: middle;
+}
+.sumup-payment-1wavyhs svg {
+    display: inline-block;
+    min-width: 18px;
+    margin-right: 4px;
+}
+.sumup-payment-1wavyhs {
+    height: auto;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgb(210, 63, 71);
+    padding: 4px;
+}
+.sumup-payment-1mo2ana {
+    min-height: 98px;
+}
+
+.consumer-settings-error, .consumer-settings-missing-error {
+    position: relative;
+    display: block;
+    padding: 8px 12px 8px 48px;
+    margin-top: 16px;
+    border: 1px solid #d8a413;
+    border-radius: 6px;
+    font-size: 13px;
+    line-height: 20px;
+}
+.consumer-settings-error svg, .consumer-settings-missing-error svg {
+    position: absolute;
+    top: 0;
+    left: 12px;
+    height: 100%;
+}
+#containerSectionBoleto,
+#containerSectionPix,
+#containerPayPix{
+    display: none;
+}
+
+.sumup-payment-ickpbd.sumup-payment-ickpbd > img {
+    height: 35px;
+    padding: 5px;
+    max-width: 110px;
+    margin: 0px;
+}
+.sumup-payment-7brioh.sumup-payment-7brioh img {
+    margin-right: 10px;
+}
+
+.sumup-payment-r3168p.sumup-payment-r3168p.sumup-payment-r3168p > h3 {
+    margin: 10px 0px;
+    line-height: 20px;
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.sumup-payment-r3168p,
+.sumup-payment-ickpbd{
+    display: flex;
+    align-items: center;
+}
+
+.sumup-payment-7brioh.sumup-payment-7brioh h4, .sumup-payment-7brioh h3 {
+    margin: 10px 0px;
+    line-height: 20px;
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.sumup-payment-3ktuyl {
+    line-height: 24px;
+    margin-bottom: 28px;
+}
+.sumup-payment-1j6bpfo {
+    width: fit-content;
+    margin: 24px auto;
+}
+.sumup-payment-7brioh.sumup-payment-7brioh img {
+    display: inline-block;
+}
+.sumup-payment-1j6bpfo img {
+    width: 250px;
+    height: 250px;
+}
+.sumup-payment-1bbmf1k {
+    overflow: hidden;
+}
+.sumup-payment-1fbmjnt {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    line-height: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    box-shadow: rgb(12 15 20 / 7%) 0px 0px 0px 1px, rgb(12 15 20 / 7%) 0px 0px 1px 0px, rgb(12 15 20 / 7%) 0px 2px 2px 0px;
+    font-weight: 700;
+    transition: top 1s ease-in-out 0s;
+    position: fixed;
+    padding: 10px 8px;
+    margin-right: auto;
+    margin-left: auto;
+    top: -999px;
+    right: 0px;
+    left: 0px;
+    width: 240px;
+}
+.sumup-payment-11c145p:hover {
+    background-color: rgb(35, 75, 195);
+    border-color: rgb(35, 75, 195);
+}
+.sumup-payment-11c145p {
+    width: 100%;
+    padding: 8px 0px;
+    background-color: rgb(48, 99, 233);
+    color: white;
+    border-radius: 1e7px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(23, 96, 206);
+    box-shadow: rgb(255 255 255 / 6%) 0px 1px 0px 1px inset;
+}
+.sumup-payment-11c145p span {
+    white-space: nowrap;
+}
+
+.containerPay .inputBox input:valid ~ span,
+.containerPay .inputBox input:focus ~ span{
+    transform: translateX(10px) translateY(-7px);
+    font-size: 0.65em;
+    padding: 2px 10px;
+    background-color: hsl(208deg 48% 94%);
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+.containerCodPix{
+    display: flex;
+    flex-direction: column;
+    margin: 30px 0px;
+    margin-bottom: 20px;
+}
+.containerCodPix > p{
+    font-weight: bold;
+    margin: 10px;
+}
+#codPix{
+    background-color: rgb(225 232 239);
+    border-radius: 5px;
+    border: 1px solid rgb(167 173 178);
+    display: flex;
+    align-items: center;
+    color: #666;
+    font-size: 0.8em;
+    padding: 10px;
+    margin: 0px 10px;
+    overflow: hidden;
+    height: fit-content;
+}
+.containerCodPix div p{
+    margin: 0%;
+}
+.containerCodPix button{
+    background: none;
+    margin: 10px auto;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid var(--colorSecundary);
+    font-weight: bold;
+    color: var(--colorSecundary);
+    cursor: pointer;
+}
+.containerCodPix button:hover{
+    background-color: var(--colorSecundary);
+    color: aliceblue;
+}
+.instrucoesCodPix > p{
+    text-align: left;
+    margin: 16px 0px;
+}
+.instrucoesCodPix div{
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+    color: #666;
+}
+.instrucoesCodPix span{
+    background-color: #00000047;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-right: 14px;
+    font-size: 0.8em;
+    color: aliceblue;
+}
+.instrucoesCodPix div p{
+    text-align: left;
+    font-size: 0.8em;
+}
