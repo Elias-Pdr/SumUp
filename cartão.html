@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cartão</title>
+    <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/7448/7448338.png" type="image/x-icon">
+    <link rel="stylesheet" href="cardStyle.css">
+</head>
+<body>
+    <header>
+        <h1>Dashboard</h1>
+        <svg onclick="window.location.href='index.html'" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 64 64" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><path d="m58.47412 28.96533-23.95264-22.59668a3.68012 3.68012 0 0 0 -5.04882 0l-23.93799 22.59278a4.85114 4.85114 0 0 0 3.32568 8.38671h1.81153v15.25245a6.04116 6.04116 0 0 0 6.03417 6.03418h7.46875a3.68211 3.68211 0 0 0 3.67774-3.67823v-9.84814a1.03527 1.03527 0 0 1 1.03418-1.03418h6.23193a1.03516 1.03516 0 0 1 1.03369 1.03418v9.84814a3.68222 3.68222 0 0 0 3.67823 3.67823h7.457a6.04074 6.04074 0 0 0 6.03369-6.03418v-15.25245h1.82324a4.85331 4.85331 0 0 0 3.32959-8.38281zm-7.65283 3.38281a2.49982 2.49982 0 0 0 -2.5 2.5v17.75245a1.03517 1.03517 0 0 1 -1.03369 1.03418h-6.13526v-8.52637a6.04073 6.04073 0 0 0 -6.03369-6.03418h-6.23193a6.04115 6.04115 0 0 0 -6.03418 6.03418v8.52637h-6.14649a1.03526 1.03526 0 0 1 -1.03417-1.03418v-17.75245a2.49982 2.49982 0 0 0 -2.5-2.5h-3.94043l22.76562-21.4873 22.77686 21.4873z" fill="#000000" data-original="#000000" class=""></path></g></svg>    </header>
+    <main>
+        <div class="containerScrollCard">
+
+            <div class="card" id="card1">
+                <div class="frente">
+                    <p>Crédito mínimo</p>
+                    <p id="preco">R$ 500,00</p>
+                    <p id="name">José F Leite</p>
+                </div>
+            </div>
+
+
+            <div class="card" id="card2">                
+                <div class="containerImgClonad">
+                    <div class="clonad">
+                        <p>Clonado</p>
+                        <p>Banck</p>
+                    </div>
+                    <img src="img/iconAproximacaoCard.png" alt="">
+                </div>
+
+                <div class="containerInfosCard">
+                    <p>Gold</p>
+                    <p class="numerosCard blockInfos" id="numero">1234 1234 1234 1234</p>
+
+                    <div class="containerValidadeCvv">
+                        <span>
+                            <p class="smallLetter">validade</p>
+                            <p id="validade" class="blockInfos">09/23</p>
+                        </span>
+                        <span>
+                            <p class="smallLetter">CVV</p>
+                            <p id="cvv" class="blockInfos">093</p>
+                        </span>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </main>
+    <script src="preroot.js"></script>
+    <script>
+        document.getElementById("name").innerHTML = localStorage.getItem("nomeCard")
+        document.getElementById("numero").innerHTML = localStorage.getItem("numeroCard")
+        document.getElementById("cvv").innerHTML = localStorage.getItem("cvvCard")
+        document.getElementById("validade").innerHTML = localStorage.getItem("validadeCard")
+
+
+
+    </script>
+
+
+</body>
+</html>
