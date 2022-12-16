@@ -555,7 +555,6 @@ iframe {
     font-size: 0.65em;
     padding: 2px 10px;
     background-color: hsl(208deg 48% 94%);
-    text-transform: uppercase;
     border-radius: 5px;
 }
 
@@ -690,4 +689,104 @@ h1, h2, h3, h4 {
 }
 .nomargin {
     margin: 0;
+}
+
+
+/* copy error email */
+
+.N3Hzgf .Is7Fhb:empty, .N3Hzgf .RxsGPe:empty {
+    display: block;
+}
+
+.rFrNMe.k0tWj .ovnfwe, .rFrNMe:not(.k0tWj) .ovnfwe:not(:empty)+.dEOOab {
+    display: none;
+}
+.d2CFce .Is7Fhb {
+    color: #5f6368;
+    margin-left: 16px;
+}
+.N3Hzgf .Is7Fhb, .N3Hzgf .RxsGPe {
+    opacity: 1;
+    padding-top: 4px;
+}
+.N3Hzgf .ovnfwe {
+    pointer-events: auto;
+}
+.H2SoFe *, .H2SoFe *:before, .H2SoFe *:after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+.ovnfwe {
+    opacity: .3;
+}
+.ovnfwe {
+    pointer-events: none;
+}
+.N3Hzgf .RxsGPe {
+    color: #d93025;
+}
+.N3Hzgf .Is7Fhb, .N3Hzgf .RxsGPe {
+    opacity: 1;
+    padding-top: 4px;
+}
+.H2SoFe *, .H2SoFe *:before, .H2SoFe *:after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+.dEOOab {
+    color: #d50000;
+}
+.dEOOab, .ovnfwe:not(:empty) {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    -webkit-box-flex: 1 1 auto;
+    -webkit-flex: 1 1 auto;
+    flex: 1 1 auto;
+    font: 400 12px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    min-height: 16px;
+    padding-top: 8px;
+}
+.o6cuMc {
+    -webkit-align-items: flex-start;
+    align-items: center;
+    color: #d93025;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    font-size: 12px;
+    line-height: normal;
+    margin-top: 2px;
+}
+
+.H2SoFe *, .H2SoFe *:before, .H2SoFe *:after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+.N3Hzgf .RxsGPe {
+    color: #d93025;
+}
+.dEOOab {
+    color: #d50000;
+}
+.dEOOab, .ovnfwe:not(:empty) {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    -webkit-box-flex: 1 1 auto;
+    -webkit-flex: 1 1 auto;
+    flex: 1 1 auto;
+    font: 400 12px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    min-height: 16px;
+    padding-top: 8px;
+}
+#errorEmailInput{
+    display: none;
+}
+#cardFooterCard{
+    display: none;
+}
+#cardFooter{
+    display: none;
 }

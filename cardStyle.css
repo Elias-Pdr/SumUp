@@ -136,3 +136,22 @@ header svg{
     font-size: 18px;
     opacity: .9;
 }
+.google{
+    margin-left: 92px;
+    letter-spacing: 1px;
+    margin-top: 40px;
+}
+.google svg{
+    margin-bottom: 10px;
+    fill: black;
+}
+.google svg path{
+    fill: black;
+}
+.small{
+    font-size: small;
+}
+.credencias{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
